@@ -1,3 +1,3 @@
-### Ciao 👋 Sono Alberto, un front-end developer, ma a volte mi cimento con un po' di back-end. 
+### Ciao 👋 Sono Alberto, designer e developer.
 
-#### Qui puoi trovare i progetti di vari *ESPERIMENTI.*    :robot:
+#### I progetti sono in costruzione. Per ora sono *ESPERIMENTI.*    :robot:
