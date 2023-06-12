@@ -1,1 +1,1 @@
-![banner](https://i.ibb.co/0j5QF4M/portfolio.png)
+![banner](https://i.ibb.co/SmSsgB8/portfolio.png)
