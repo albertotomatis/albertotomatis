@@ -8,7 +8,7 @@ const albertotomatis  = {
   backEnd: ["NextJs". "ExpressJs", "Ejs"],
   databases: ["MongoDB", "MySql"],
   animation: ["animeJs", "threeJs", "theatreJs", "Gsap"],
-  tools: ["Postman", "Sourcetree", "Notion"],
+  tools: ["Postman", "GitKraken", "Notion"],
   graphic: ["Photoshop", "Figma"],
   hobby: ["BoardGames", "Lego", "Photography"]
 };
