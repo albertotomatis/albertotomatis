@@ -4,7 +4,7 @@
  ```javascript
 const albertotomatis  = {
   code: ["Javascript", "Css", "Html"],
-  frontEnd: ["React", "Vue, "Tailwind"],
+  frontEnd: ["React", "Vue", "Tailwind"],
   backEnd: ["NextJs". "ExpressJs", "Ejs"],
   databases: ["MongoDB", "MySql"],
   animation: ["animeJs", "threeJs", "theatreJs", "Gsap"],
