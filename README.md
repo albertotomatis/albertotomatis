@@ -7,6 +7,7 @@ const albertotomatis  = {
   frontEnd: ["React", "Vue", "Tailwind"],
   backEnd: ["NextJs". "ExpressJs", "Ejs"],
   databases: ["MongoDB", "MySql"],
+  orm: ["Prisma", "Mongoose"],
   animation: ["animeJs", "threeJs", "theatreJs", "Gsap"],
   tools: ["Postman", "GitKraken", "Notion"],
   graphic: ["Photoshop", "Figma"],
