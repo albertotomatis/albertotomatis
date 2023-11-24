@@ -4,12 +4,12 @@
  ```javascript
 const albertotomatis  = {
   code: ["Javascript", "Css", "Html"],
-  frontEnd: ["React", "Vue", "Tailwind"],
-  backEnd: ["NextJs". "ExpressJs", "Ejs"],
+  frontEnd: ["React", "Tailwind"],
+  backEnd: ["NextJs"],
   databases: ["MongoDB", "MySql"],
   orm: ["Prisma", "Mongoose"],
   animation: ["animeJs", "threeJs", "theatreJs", "Gsap"],
-  tools: ["Postman", "GitKraken", "Notion"],
+  tools: ["Postman", "GitKraken", "SourceTree", "Notion"],
   graphic: ["Photoshop", "Figma"],
   hobby: ["BoardGames", "Lego", "Photography"]
 };
